@@ -1,4 +1,4 @@
-package wys.javastudy;
+package wys.javastudy.chapter.forth;
 
 import java.io.*;
 public class TestLabel{
