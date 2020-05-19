@@ -20,10 +20,12 @@ public class TestLabel{
                 }
                 if(i == 3){
                     System.out.println("break");
+                    i++;
                     break;
                 }
                 if( i == 7){
                     System.out.println("continue outer");
+                    i++;
                     break outer;
                 }
                 if( i == 8){
